@@ -1,0 +1,14 @@
+base
+Defaults
+ggplot2
+googleVis
+mapproj
+maps
+PerformanceAnalytics
+quantmod
+shiny
+shinyapps
+slidify
+TTR
+xts
+zoo
